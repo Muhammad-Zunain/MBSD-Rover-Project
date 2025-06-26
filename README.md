@@ -100,9 +100,14 @@ An autonomous four-wheeled rover that:
 ![WhatsApp Image 2025-05-21 at 21 50 37_d7104fc9](https://github.com/user-attachments/assets/6d7d98ad-f0f0-4e1e-9163-19e8bae84091)
 ![WhatsApp Image 2025-05-21 at 21 50 38_e434f9ca](https://github.com/user-attachments/assets/38937004-2229-4b77-b422-f1a7069ec4ca)
 
+---
+
 ## 🤝 Contributors
 - [**Usman Faizyab Khan**](https://github.com/USMAN-FAIZYAB-KHAN)  
 - [**Muhammad Zunain**](https://github.com/Muhammad-Zunain)
 - [**Muhammad Owais**](https://github.com/MuhammadOwais03)
 - **Zuhaib Noor**
 
+---
+
+Enjoy using this project! Contributions and feedback are welcome. 😊
